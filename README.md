@@ -6,3 +6,7 @@ I study in Netology
 
 ##new
 
+Это учебный репозиторий
+
+## New title
+
